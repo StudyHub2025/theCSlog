@@ -1,0 +1,38 @@
+---
+name: TODO_LIST
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+## 📌 제목
+
+[docs] ✏️ {{오늘날짜}} TODO 
+
+---
+
+## 📚 TODO list
+
+- [ ]  Java / Kotlin
+- [ ]  Spring / Spring Boot
+- [ ]  네트워크 / 운영체제 / CS
+- [ ]  인프라 / 클라우드
+- [ ]  알고리즘 / 자료구조
+- [ ]  기타:
+
+---
+
+## 💬 참고 파일 및 링크
+
+- 문서 중심의 변경입니다. 실행 로직에 영향은 없습니다.
+- 오타, 표현 방식 등에 대한 피드백 환영합니다 🙌
+
+---
+
+## 🔗 관련 이슈
+
+- 관련 이슈: #이슈번호
+- 이 PR은 위 이슈를 해결합니다.
+👉 `Closes #이슈번호`
