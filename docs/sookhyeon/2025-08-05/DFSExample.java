@@ -1,5 +1,3 @@
-package _0806;
-
 import java.util.*;
 
 public class DFSExample {
